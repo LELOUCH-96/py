@@ -1,0 +1,9 @@
+git submodule update
+
+git rm --cached <folder name in git repo>
+
+git add <folder name in git repo>
+
+git commit 
+
+git push 
