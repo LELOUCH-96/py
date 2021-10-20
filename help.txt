@@ -4,6 +4,6 @@ git rm --cached <folder name in git repo>
 
 git add <folder name in git repo>
 
-git commit 
+git commit
 
-git push 
+git push
